@@ -11,7 +11,7 @@
 ## Requirements
 Python:
 
-- Python >= 3.7
+- Python >= 3.12
 - Pandas
 - NumPy
 - Matplotlib
